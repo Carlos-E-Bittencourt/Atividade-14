@@ -1,0 +1,3 @@
+Minha ideia, foi criar uma funcionalidade, para o site do Termo, onde ao completar o jogo apareceria um botão com o símbilo do dicionário, que ao clicar apareceria uma janela
+onde teria uma breve explicação com o significado do dicionário sobre a palavra. 
+Pensei nisso, porque muitas vezes a palavra do dia é uma palavra dificil e não comum e com isso você aos poucos melhoraria e aumentaria seu vocabulário
